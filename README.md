@@ -5,7 +5,7 @@ A modern, responsive and interactive NGO website created for *She Can Foundation
 
 This project was designed with a clean UI, emotional storytelling, donation flow and engaging user experience using **HTML, CSS and JavaScript**.
 
-#✨ Website Highlights
+# ✨ Website Highlights
 
 ✔️ Modern Responsive Design  
 ✔️ Women Empowerment Theme  
@@ -50,6 +50,6 @@ Together, we can build a future where every girl feels fearless and empowered.
 ├── script.js
 └── images/
 ```
-#👩‍💻 Developed By
+# 👩‍💻 Developed By
 ### Bhumika Dour
-Frontend Development Internship Project
+Frontend Development Internship Project.
